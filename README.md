@@ -1,6 +1,6 @@
 ### Hi there, I'm Confidence 👋
 
-Hello! I'm Confidence Okoghenun a Software Engineer and Youtuber based in Lagos, Nigeria 🇳🇬
+Hello! I'm Confidence Okoghenun a Software Engineer and Developer Advocate based in Lagos, Nigeria 🇳🇬
 
 Right now, I work as a Developer Advocate and enjoy sharing my experience through videos on my [Youtube channel](https://youtube.com/@megaconfidence) and sometimes via articles on my [personal blog](https://confidence.sh/). You can also find my tweets at my handle [@megaconfidence](https://twitter.com/megaconfidence)
 
